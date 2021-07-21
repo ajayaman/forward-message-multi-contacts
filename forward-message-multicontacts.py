@@ -32,7 +32,7 @@ with open(input_file, encoding='UTF-8') as f:
  
 mode = int(input("Enter 1 to send by user ID or 2 to send by username: "))
  
-messages= ["Hello {}, How are you?", "Hi {}, What's up?", "Hey {}, do you want to gotrained?"]
+messages= ["https://www.youtube.com/watch?v=3B0U2RPmzEU"]
  
 for user in users:
     if mode == 2:
